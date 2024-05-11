@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "shiti1",
+    "previewUrl": "model/shiti1/1.png",
+    "modelUrl": "model/shiti1/shiti1.draco.glb"
+  },
+  {
+    "id": 2,
+    "name": "shiti2",
+    "previewUrl": "model/shiti2/2.png",
+    "modelUrl": "model/shiti2/shiti2.draco.glb"
+  },
+  {
+    "id": 3,
+    "name": "shiti3",
+    "previewUrl": "model/shiti3/3.png",
+    "modelUrl": "model/shiti3/shiti3.draco.glb"
+  },
+  {
+    "id": 4,
+    "name": "shiti4",
+    "previewUrl": "model/shiti4/4.png",
+    "modelUrl": "model/shiti4/shiti4.draco.glb"
+  },
+  {
+    "id": 5,
+    "name": "shiti5",
+    "previewUrl": "model/shiti5/5.png",
+    "modelUrl": "model/shiti5/shiti5.draco.glb"
+  },
+  {
+    "id": 6,
+    "name": "shiti6",
+    "previewUrl": "model/shiti6/6.png",
+    "modelUrl": "model/shiti6/shit6.draco.glb"
+  },
+  {
+    "id": 7,
+    "name": "shiti7",
+    "previewUrl": "model/shiti7/7.png",
+    "modelUrl": "model/shiti7/shit7.draco.glb"
+  },
+  {
+    "id": 8,
+    "name": "shiti8",
+    "previewUrl": "model/shiti8/8.png",
+    "modelUrl": "model/shiti8/shit8.draco.glb"
+  },
+  {
+    "id": 9,
+    "name": "shiti9",
+    "previewUrl": "model/shiti9/9.png",
+    "modelUrl": "model/shiti9/shit9.draco.glb"
+  },
+  {
+    "id": 10,
+    "name": "shiti10",
+    "previewUrl": "model/shiti10/10.png",
+    "modelUrl": "model/shiti10/shit10.draco.glb"
+  },
+  {
+    "id": 11,
+    "name": "shiti11",
+    "previewUrl": "model/shiti11/11.png",
+    "modelUrl": "model/shiti11/shit11.draco.glb"
+  },
+  {
+    "id": 12,
+    "name": "shiti12",
+    "previewUrl": "model/shiti12/12.png",
+    "modelUrl": "model/shiti12/shit12.draco.glb"
+  },
+  {
+    "id": 13,
+    "name": "shiti13",
+    "previewUrl": "model/shiti13/13.png",
+    "modelUrl": "model/shiti13/shit13.draco.glb"
+  },
+  {
+    "id": 14,
+    "name": "shiti14",
+    "previewUrl": "model/shiti14/14.png",
+    "modelUrl": "model/shiti14/shit14.draco.glb"
+  },
+  {
+    "id": 15,
+    "name": "shiti15",
+    "previewUrl": "model/shiti15/15.png",
+    "modelUrl": "model/shiti15/shit15.draco.glb"
+  },
+  {
+    "id": 16,
+    "name": "shiti16",
+    "previewUrl": "model/shiti16/16.png",
+    "modelUrl": "model/shiti16/shit16.draco.glb"
+  }
+]
